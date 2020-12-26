@@ -23,3 +23,8 @@ Distance Traveled:
 	
 	Calculates the distance of a vehicle traveled in feet from 2 still frames, as well as calculating speed given 
 	the time between the frames.
+
+Frequency_Domain_Filtering:
+
+	Shows the process of filtering a distorted image in the frequency domain through MATLAB, resulting in an image that
+	would not have been able to be cleaned up if attempted to be filtered in the spatial domain.
