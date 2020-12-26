@@ -14,3 +14,7 @@ Image_Similarity:
 Nearest_Neighbor_Interpolation:
 	
 	Takes an input image and increases the image size by an integer factor using nearest neighbor interpolation.
+
+Edge_Detection_Outline
+	
+	Detects the boundary of a specified color region and outlines the boundary of that region in a particular color.
