@@ -11,5 +11,6 @@ Image_Similarity:
 	
 	Calculates two similarity percentages of two images on the basis of gradience and color histograms.
 	
-
-  
+Nearest_Neighbor_Interpolation:
+	
+	Takes an input image and increases the image size by an integer factor using nearest neighbor interpolation.
