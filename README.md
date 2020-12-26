@@ -18,3 +18,8 @@ Nearest_Neighbor_Interpolation:
 Edge_Detection_Outline
 	
 	Detects the boundary of a specified color region and outlines the boundary of that region in a particular color.
+
+Distance Traveled:
+	
+	Calculates the distance of a vehicle traveled in feet from 2 still frames, as well as calculating speed given 
+	the time between the frames.
